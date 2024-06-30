@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+
+.main-heading {
+  color: #00e7ff;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+}
+
+.currency-box {
+  border: 3px solid #00e7ff;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.currency-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-right: 20px;
+  background-color: #092e33;
+  padding-left: 20px;
+}
+
+.currency-type-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 200px;
+}
+
+p {
+  font-family: Roboto;
+  font-weight: bold;
+  margin-left: 10px;
+}
